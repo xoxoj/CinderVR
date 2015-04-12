@@ -1,0 +1,25 @@
+<cinder>
+    <block
+        name="CinderVR"
+        id="io.stainless.cinderVR"
+        git="https://github.com/RussTheAerialist/CinderVR.git"
+        author="RussTheAerialist & Joxn"
+        version="0.1"
+        url="https://github.com/RussTheAerialist/CinderVR"
+        library="https://developer.oculus.com/download"
+    >
+        <supports os="macosx" />
+        <supports os="msw" />
+        <headerPattern>include/*.h</headerPattern>
+        <sourcePattern>src/*.cpp</sourcePattern>
+        <assetPattern>assets/*</assetPattern>
+        <platform os="macosx">
+        </platform>
+        <platform os="msw">
+            <platform compiler="vc2012">
+            </platform>
+            <platform compiler="vc2013">
+            </platform>
+        </platform>
+    </block>
+</cinder>
