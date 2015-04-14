@@ -12,7 +12,6 @@
         <supports os="msw" />
         <headerPattern>include/*.h</headerPattern>
         <sourcePattern>src/*.cpp</sourcePattern>
-        <assetPattern>assets/*</assetPattern>
         <platform os="macosx">
         </platform>
         <platform os="msw">
