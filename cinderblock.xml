@@ -3,7 +3,7 @@
         name="CinderVR"
         id="io.stainless.cinderVR"
         git="https://github.com/RussTheAerialist/CinderVR.git"
-        author="RussTheAerialist & Joxn"
+        author="RussTheAerialist &amp; Joxn"
         version="0.1"
         url="https://github.com/RussTheAerialist/CinderVR"
         library="https://developer.oculus.com/download"
